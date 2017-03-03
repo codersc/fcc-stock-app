@@ -1,0 +1,17 @@
+.dashboard {
+	margin-top: 2%;
+}
+.tile {
+	height: 30px;
+}
+
+.tile:hover {
+	background-color: rgba(144, 195, 212, 0.3) !important;
+}
+
+footer {
+	text-align: center;
+	background-color: rgb(144, 195, 212);
+	color: white;
+	margin-top: 2%;
+}
